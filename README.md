@@ -6,22 +6,55 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 1 |
+| 7 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (2)
+- [*special](#special) (1)
+- [brute force](#brute-force) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (3)
+- [math](#math) (3)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/231/A%20-%20Team/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/231/A%20-%20Team/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1/A%20-%20Theatre%20Square/solution.py) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
 
 ---
 
