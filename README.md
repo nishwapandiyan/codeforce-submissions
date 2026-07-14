@@ -6,42 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (1)
-- [graph matchings](#graph-matchings) (1)
-- [implementation](#implementation) (1)
-- [shortest paths](#shortest-paths) (1)
+- [strings](#strings) (1)
 
 ---
 
-### constructive algorithms
+### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
-
-### graph matchings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
-
-### shortest paths
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+| 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/208/A%20-%20Dubstep/solution.py) |
 
 ---
 
