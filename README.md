@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 10 |
+| 28 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (21)
-- [math](#math) (7)
+- [implementation](#implementation) (22)
+- [math](#math) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (7)
@@ -66,6 +66,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
@@ -93,6 +94,7 @@
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1/A%20-%20Theatre%20Square/solution.py) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
