@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 10 |
+| 32 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (24)
+- [implementation](#implementation) (25)
 - [math](#math) (8)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -70,6 +70,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/116/A%20-%20Tram/solution.py) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
