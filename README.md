@@ -6,71 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (5)
-- [math](#math) (1)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (2)
-- [strings](#strings) (3)
+- [greedy](#greedy) (1)
+- [strings](#strings) (1)
 
 ---
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/58/A%20-%20Chat%20room/solution.py) |
-| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/160/A%20-%20Twins/solution.py) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/96/A%20-%20Football/solution.py) |
-| 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/136/A%20-%20Presents/solution.py) |
-| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.py) |
-| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
-| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/427/A%20-%20Police%20Recruits/solution.py) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.py) |
-| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/160/A%20-%20Twins/solution.py) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/58/A%20-%20Chat%20room/solution.py) |
-| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/96/A%20-%20Football/solution.py) |
-| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.py) |
 
 ---
 
