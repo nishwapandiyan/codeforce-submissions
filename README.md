@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -35,6 +35,7 @@
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/427/A%20-%20Police%20Recruits/solution.py) |
 
 ### math
 
