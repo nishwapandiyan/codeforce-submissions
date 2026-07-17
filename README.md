@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/330/A%20-%20Cakeminator/solution.py) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
+| 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/431/A%20-%20Black%20Square/solution.py) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/A%20-%20Keyboard/solution.py) |
 
 ### strings
