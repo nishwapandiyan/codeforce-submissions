@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 11 |
+| 38 | 11 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (26)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (27)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -65,6 +65,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/337/A%20-%20Puzzles/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 
 ### implementation
 
@@ -90,6 +91,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/344/A%20-%20Magnets/solution.py) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
