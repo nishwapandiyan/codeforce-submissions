@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/330/A%20-%20Cakeminator/solution.py) |
 
 ### greedy
 
@@ -28,6 +35,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/330/A%20-%20Cakeminator/solution.py) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/A%20-%20Keyboard/solution.py) |
 
 ### strings
