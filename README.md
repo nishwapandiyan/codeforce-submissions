@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (4)
 - [strings](#strings) (1)
 - [two pointers](#two-pointers) (1)
@@ -31,6 +31,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/58/A%20-%20Chat%20room/solution.py) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/337/A%20-%20Puzzles/solution.py) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
 
 ### implementation
