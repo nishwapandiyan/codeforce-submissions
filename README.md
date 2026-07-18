@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
+- [math](#math) (1)
 
 ---
 
@@ -21,6 +22,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.py) |
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
 
 ---
 
