@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 13 |
+| 44 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (30)
+- [implementation](#implementation) (31)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -114,6 +114,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
+| 703A | [Mishka and Game](https://codeforces.com/contest/703/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/703/A%20-%20Mishka%20and%20Game/solution.py) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
