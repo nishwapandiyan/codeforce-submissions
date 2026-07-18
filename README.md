@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 12 |
+| 42 | 12 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (30)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
@@ -74,6 +74,7 @@
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/337/A%20-%20Puzzles/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
+| 556A | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/556/A%20-%20Case%20of%20the%20Zeros%20and%20Ones/solution.py) |
 
 ### implementation
 
