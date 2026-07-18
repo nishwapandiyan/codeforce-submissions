@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 
 ---
 
@@ -38,6 +38,7 @@
 |---|---------|------------|----------|
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
 
 ### math
@@ -52,6 +53,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
 
 ---
 
