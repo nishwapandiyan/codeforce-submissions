@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 12 |
+| 43 | 13 |
 
 ---
 
@@ -16,8 +16,9 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (30)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
@@ -58,6 +59,12 @@
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
+
 ### graph matchings
 
 | # | Problem | Difficulty | Solution |
@@ -75,6 +82,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 556A | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/556/A%20-%20Case%20of%20the%20Zeros%20and%20Ones/solution.py) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 
 ### implementation
 
