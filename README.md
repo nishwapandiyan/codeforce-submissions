@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -23,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.py) |
 
 ### implementation
 
@@ -36,6 +44,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.py) |
 
 ---
 
