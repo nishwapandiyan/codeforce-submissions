@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 3 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (2)
+- [math](#math) (1)
 
 ---
 
@@ -29,6 +30,12 @@
 |---|---------|------------|----------|
 | 703A | [Mishka and Game](https://codeforces.com/contest/703/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/703/A%20-%20Mishka%20and%20Game/solution.py) |
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
 
 ---
 
