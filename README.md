@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 
 ---
 
@@ -24,6 +24,7 @@
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/34/B%20-%20Sale/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
+| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/A%20-%20Dragons/solution.py) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.py) |
 
 ### implementation
@@ -38,6 +39,7 @@
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/34/B%20-%20Sale/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
+| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/A%20-%20Dragons/solution.py) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.py) |
 
 ---
