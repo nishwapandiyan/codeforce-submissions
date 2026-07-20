@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 4 |
+| 8 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [sortings](#sortings) (5)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/991/C%20-%20Candies/solution.py) |
 
 ### brute force
 
@@ -42,6 +49,7 @@
 |---|---------|------------|----------|
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 701A | [Cards](https://codeforces.com/contest/701/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/701/A%20-%20Cards/solution.py) |
+| 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/991/C%20-%20Candies/solution.py) |
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 
 ### sortings
