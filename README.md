@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (3)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 
 ---
 
@@ -34,6 +34,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/A%20-%20Dragons/solution.py) |
 | 701A | [Cards](https://codeforces.com/contest/701/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/701/A%20-%20Cards/solution.py) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.py) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 
 ### implementation
 
@@ -51,6 +52,7 @@
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/A%20-%20Dragons/solution.py) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.py) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 
 ---
 
