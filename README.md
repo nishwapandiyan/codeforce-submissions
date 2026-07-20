@@ -6,33 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 1 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (4)
 - [math](#math) (1)
-- [sortings](#sortings) (5)
 
 ---
-
-### binary search
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/991/C%20-%20Candies/solution.py) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
 
 ### dp
@@ -41,41 +30,11 @@
 |---|---------|------------|----------|
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
 
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/34/B%20-%20Sale/solution.py) |
-| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
-| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/A%20-%20Dragons/solution.py) |
-| 701A | [Cards](https://codeforces.com/contest/701/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/701/A%20-%20Cards/solution.py) |
-| 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.py) |
-| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
-| 701A | [Cards](https://codeforces.com/contest/701/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/701/A%20-%20Cards/solution.py) |
-| 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/991/C%20-%20Candies/solution.py) |
-| 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
-
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/34/B%20-%20Sale/solution.py) |
-| 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
-| 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/A%20-%20Dragons/solution.py) |
-| 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.py) |
-| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 
 ---
 
