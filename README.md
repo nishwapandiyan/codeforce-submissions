@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
@@ -14,7 +14,8 @@
 
 - [brute force](#brute-force) (1)
 - [dp](#dp) (1)
-- [math](#math) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -34,7 +35,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 
 ---
 
