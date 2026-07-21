@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
@@ -24,10 +25,17 @@
 |---|---------|------------|----------|
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.py) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.py) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
 
 ### number theory
