@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 6 |
 
 ---
 
@@ -14,8 +14,10 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (2)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -31,6 +33,12 @@
 |---|---------|------------|----------|
 | 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.py) |
 
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.py) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
@@ -43,6 +51,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.py) |
 
 ---
 
