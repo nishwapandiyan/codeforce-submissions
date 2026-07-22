@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 82 | 14 |
+| 83 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [brute force](#brute-force) (19)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (5)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
-- [implementation](#implementation) (54)
+- [implementation](#implementation) (55)
 - [math](#math) (20)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
@@ -41,6 +41,7 @@
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/230/B%20-%20T-primes/solution.py) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/279/B%20-%20Books/solution.py) |
+| 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/B%20-%20Worms/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 991C | [Candies](https://codeforces.com/contest/991/problem/C) | 1500 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/991/C%20-%20Candies/solution.py) |
 
@@ -157,6 +158,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/A%20-%20Keyboard/solution.py) |
+| 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/B%20-%20Worms/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
