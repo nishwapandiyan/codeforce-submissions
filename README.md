@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 14 |
+| 79 | 14 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (16)
+- [brute force](#brute-force) (17)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
 - [implementation](#implementation) (51)
@@ -54,6 +54,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/268/A%20-%20Games/solution.py) |
 | 330A | [Cakeminator](https://codeforces.com/contest/330/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/330/A%20-%20Cakeminator/solution.py) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/363/B%20-%20Fence/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
@@ -76,6 +77,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/363/B%20-%20Fence/solution.py) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
 
