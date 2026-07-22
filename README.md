@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [implementation](#implementation) (2)
+- [brute force](#brute-force) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 
 ---
@@ -23,6 +23,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.py) |
 
 ### implementation
 
@@ -30,6 +31,7 @@
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 1520A | [Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1520/A%20-%20Do%20Not%20Be%20Distracted!/solution.py) |
 
 ### math
 
