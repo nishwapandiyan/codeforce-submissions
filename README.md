@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 80 | 14 |
+| 81 | 14 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (4)
-- [brute force](#brute-force) (18)
+- [brute force](#brute-force) (19)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (20)
-- [implementation](#implementation) (52)
+- [implementation](#implementation) (53)
 - [math](#math) (20)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
@@ -59,6 +59,7 @@
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/363/B%20-%20Fence/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.py) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
@@ -80,6 +81,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/363/B%20-%20Fence/solution.py) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.py) |
 
@@ -157,6 +159,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
 | 701A | [Cards](https://codeforces.com/contest/701/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/701/A%20-%20Cards/solution.py) |
