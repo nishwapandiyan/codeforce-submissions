@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [binary search](#binary-search) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 
 ---
 
@@ -41,6 +41,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 404A | [Valera and X](https://codeforces.com/contest/404/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/404/A%20-%20Valera%20and%20X/solution.py) |
 | 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.py) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/B%20-%20Worms/solution.py) |
 
