@@ -6,44 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (1)
-- [games](#games) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (1)
 
 ---
-
-### binary search
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/B%20-%20Worms/solution.py) |
-
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.py) |
-
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 404A | [Valera and X](https://codeforces.com/contest/404/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/404/A%20-%20Valera%20and%20X/solution.py) |
-| 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.py) |
-| 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/474/B%20-%20Worms/solution.py) |
 
 ---
 
