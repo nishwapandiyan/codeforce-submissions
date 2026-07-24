@@ -6,15 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [dp](#dp) (1)
 - [implementation](#implementation) (1)
 
 ---
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/455/A%20-%20Boredom/solution.py) |
 
 ### implementation
 
