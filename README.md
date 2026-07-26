@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 13 |
+| 51 | 13 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (32)
+- [implementation](#implementation) (33)
 - [math](#math) (13)
 - [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
@@ -118,6 +118,7 @@
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
