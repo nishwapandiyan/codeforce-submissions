@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (2)
+- [dfs and similar](#dfs-and-similar) (1)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
@@ -25,11 +26,18 @@
 |---|---------|------------|----------|
 | 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.py) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.py) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.py) |
+| 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.py) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
 
 ### math
