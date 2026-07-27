@@ -6,67 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [combinatorics](#combinatorics) (1)
-- [geometry](#geometry) (1)
-- [implementation](#implementation) (4)
-- [math](#math) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [implementation](#implementation) (1)
+- [strings](#strings) (1)
 
 ---
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
-
-### combinatorics
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
-
-### geometry
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
-| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
-| 831B | [Keyboard Layouts](https://codeforces.com/contest/831/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/831/B%20-%20Keyboard%20Layouts/solution.py) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
-| 831B | [Keyboard Layouts](https://codeforces.com/contest/831/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/831/B%20-%20Keyboard%20Layouts/solution.py) |
 
 ---
 
