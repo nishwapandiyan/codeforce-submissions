@@ -6,22 +6,37 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (1)
+- [implementation](#implementation) (2)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.py) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.py) |
 
 ### strings
 
