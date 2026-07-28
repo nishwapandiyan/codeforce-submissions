@@ -6,21 +6,56 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 1 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (1)
+- [combinatorics](#combinatorics) (1)
+- [dp](#dp) (1)
+- [math](#math) (1)
+- [probabilities](#probabilities) (1)
 
 ---
 
-### greedy
+### bitmasks
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 435B | [Pasha Maximizes](https://codeforces.com/contest/435/problem/B) | 1400 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/435/B%20-%20Pasha%20Maximizes/solution.py) |
+| 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
 
 ---
 
