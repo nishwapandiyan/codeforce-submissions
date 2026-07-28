@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 6 |
+| 2 | 11 |
 
 ---
 
@@ -15,9 +15,14 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
-- [dp](#dp) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (2)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (1)
 - [math](#math) (1)
 - [probabilities](#probabilities) (1)
+- [sortings](#sortings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -39,11 +44,30 @@
 |---|---------|------------|----------|
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 
 ### math
 
@@ -56,6 +80,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 476B | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/476/B%20-%20Dreamoon%20and%20WiFi/solution.py) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 
 ---
 
