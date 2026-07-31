@@ -6,35 +6,42 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 1 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [binary search](#binary-search) (1)
+- [dp](#dp) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
-### brute force
+### binary search
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 463B | [Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/463/B%20-%20Caisa%20and%20Pylons/solution.py) |
+| 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1354/B%20-%20Ternary%20String/solution.py) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1354/B%20-%20Ternary%20String/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 463B | [Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/463/B%20-%20Caisa%20and%20Pylons/solution.py) |
+| 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1354/B%20-%20Ternary%20String/solution.py) |
 
-### math
+### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 463B | [Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/463/B%20-%20Caisa%20and%20Pylons/solution.py) |
+| 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1354/B%20-%20Ternary%20String/solution.py) |
 
 ---
 
