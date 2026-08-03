@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
 
 ---
 
@@ -28,6 +29,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1536A | [Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1536/A%20-%20Omkar%20and%20Bad%20Story/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1642B | [Power Walking](https://codeforces.com/contest/1642/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1642/B%20-%20Power%20Walking/solution.py) |
 
 ---
 
