@@ -6,21 +6,42 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.py) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1642B | [Power Walking](https://codeforces.com/contest/1642/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1642/B%20-%20Power%20Walking/solution.py) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.py) |
 
 ---
 
