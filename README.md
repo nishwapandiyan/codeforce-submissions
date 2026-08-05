@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 5 |
 
 ---
 
@@ -14,6 +14,8 @@
 
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [strings](#strings) (1)
 
 ---
@@ -29,6 +31,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1005B | [Delete from the Left](https://codeforces.com/contest/1005/problem/B) | 900 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1005/B%20-%20Delete%20from%20the%20Left/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.py) |
 
 ### strings
 
