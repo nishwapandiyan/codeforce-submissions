@@ -6,15 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [math](#math) (2)
-- [number theory](#number-theory) (1)
+- [math](#math) (1)
 
 ---
 
@@ -29,13 +28,6 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.py) |
-| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.py) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.py) |
 
 ---
 
