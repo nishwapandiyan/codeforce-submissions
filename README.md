@@ -6,22 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [binary search](#binary-search) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1593C | [Save More Mice](https://codeforces.com/contest/1593/problem/C) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1593/C%20-%20Save%20More%20Mice/solution.py) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1342A | [Road To Zero](https://codeforces.com/contest/1342/problem/A) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1342/A%20-%20Road%20To%20Zero/solution.py) |
+| 1593C | [Save More Mice](https://codeforces.com/contest/1593/problem/C) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1593/C%20-%20Save%20More%20Mice/solution.py) |
 
 ### math
 
