@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (1)
 - [math](#math) (1)
 
 ---
@@ -21,7 +21,6 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1399B | [Gifts Fixing](https://codeforces.com/contest/1399/problem/B) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1399/B%20-%20Gifts%20Fixing/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
 
 ### math
