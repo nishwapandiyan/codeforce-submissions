@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
@@ -21,7 +22,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.py) |
 
 ### math
 
