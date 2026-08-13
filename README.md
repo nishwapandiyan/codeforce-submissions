@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (3)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 
 ---
@@ -31,12 +31,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.py) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.py) |
 | 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
@@ -51,6 +53,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1367C | [Social Distance](https://codeforces.com/contest/1367/problem/C) | 1300 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1367/C%20-%20Social%20Distance/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [Python 3](https://github.com/nishwapandiyan/codeforce-submissions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.py) |
 
